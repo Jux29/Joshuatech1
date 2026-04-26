@@ -38,3 +38,23 @@
 
 **2. If You Have an account on Render**
 - <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+### 🔥 HEROKU
+
+<a href="https://signup.heroku.com">
+<img src="https://img.shields.io/badge/SIGN UP-HEROKU-purple?style=for-the-badge&logo=heroku" />
+</a>
+
+
+### 💬 WhatsApp
+
+<a href="https://wa.me/255620511416">
+<img src="https://img.shields.io/badge/CHAT OWNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+***
+
+## 📢 OFFICIAL CHANNEL
+
+<a href="https://whatsapp.com/channel/0029VakMPmjCxoB3LtbdOv1D">
+<img src="https://img.shields.io/badge/FOLLOW CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
