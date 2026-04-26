@@ -13,7 +13,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Jux29/JOSHUATECH) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Jux29/Joshuatech1) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) OR [`PAIRING CODE`](https://the-flash-md-sessions.onrender.com/pair)***
 
